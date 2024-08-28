@@ -25,7 +25,7 @@ _This analysis aims to examine player trends and team tendencies during Valorant
 ### **Questions**
 _This project explores several key questions, including:_
 - 1. How valuable is a player to their team?
-- 2. What statistics indicate a top performing player? 
+- 2. Who are the top performers of this tournament?
 - 3. Is Neon actually meta defining?
 - 4. How does map pick influence a team's performance
 ---

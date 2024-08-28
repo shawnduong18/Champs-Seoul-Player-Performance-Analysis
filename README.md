@@ -28,7 +28,7 @@ _This project explores several key questions, including:_
 - 2. Who are the top performers of this tournament?
 - 3. Is Neon actually meta defining?
 - 4. How does map pick influence a team's performance
-  5. Why are EDG so formidable?
+- 5. Why were EDG so formidable?
 ---
 
 ### **Approach**

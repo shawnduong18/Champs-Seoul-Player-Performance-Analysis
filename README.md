@@ -52,5 +52,9 @@ ___
 
 ![alt text](https://github.com/shawnduong18/Player-Performance-Analysis/blob/82c88c2d8de1a79c8b9e7b7c327364be36ca48fc/Visuals/Round%20Differential.png)
 
+To determine how involved a team is with their team's success, we use a metric called KAST % (Kill, Assist, Survive, Trade Percentage). The graph below displays the KAST % of every player that qualified for playoffs. 
+
+
+
 
 

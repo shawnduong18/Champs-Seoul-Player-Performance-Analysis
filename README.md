@@ -19,6 +19,7 @@ _This analysis aims to examine player trends and team tendencies during Valorant
 ### **Data Source**
 - **Source of data:** [vlr.gg](https://www.vlr.gg/stats/?event_group_id=all&event_id=2097&series_id=all&region=all&min_rounds=50&min_rating=1550&agent=all&map_id=all&timespan=all)
 - **Scope of data:** Covers 34 matches, 80 players and ~2,000 data points.
+- **Dataset:** This dataset was created by me and can be found [here](https://docs.google.com/spreadsheets/d/1yH3ZFo-Tlz2oqdMXROr_Z5Ip1KLwdGebf77dtt9TGak/edit?usp=sharing).
 ---
 
 ### **Questions**

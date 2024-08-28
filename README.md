@@ -31,10 +31,8 @@ _This project explores several key questions, including:_
 ---
 
 ### **Approach**
-- 
-- 
+- Data inputted into Excel sheet from vlr.gg
 - Create visualizations using Tableau
-- 
 
 ---
 

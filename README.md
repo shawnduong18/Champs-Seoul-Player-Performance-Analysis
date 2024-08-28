@@ -44,7 +44,7 @@ _This project was conducted using the following tools:_
 ___
 
 - ### **Results**
-- Q1.1 To quantify how valuable a player is to their team, I focused on two metrics: How critical their performance is to their team's success and (BLANK). Seen below is a graph containing game-to-game impact: "Average Round Differential per game" is defined as the amount of additional rounds a team wins when a player is performing above average compared to when they're performing poorly. To quantify this we performed the following calculations:
+- Q1.1 To quantify how valuable a player is to their team, I focused on two metrics: How critical their performance is to their team's success and how involved they are with their team's success. Seen below is a graph containing game-to-game impact: "Average Round Differential per game" is defined as the amount of additional rounds a team wins when a player is performing above average compared to when they're performing poorly. To quantify this we performed the following calculations:
 - An "average performance" is quantifed as 14.2 kills, rounded up to 15 kills per map. This is derived from the average kills per map across all competitors in Champions Seoul. Any map a player has above 15 kills is considered above average, while any map a player has below 15 kills is considered below average.
 - To calculate "Average Round Differential per game", we subtract the average rounds earned from underperformances from the average rounds earned from overperforming.
 - E.G. DRX BuZz: 12.5 - 9.3 = 3.2 -> "DRX wins an average of 3.2 rounds per game when BuZz performs well compared to when he performs poorly."

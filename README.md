@@ -62,7 +62,7 @@ ___
 - Q1.2 To determine how involved a player is with their team's success, we use a metric called KAST % (Kill, Assist, Survive, Trade Percentage). This is calculated by the number of rounds a player fulfil's one of these actions divided by the total rounds they play. KAST is binary in which the player either had impact or had zero impact in a given round. The graph below displays the KAST % of every player that qualified for playoffs. 
 
 ![alt text](https://github.com/shawnduong18/Player-Performance-Analysis/blob/main/Visuals/KAST%25.png)
-
+___
 - Q2.1 To be considered as a top performer quantitatively, players must showcase impressive numbers in individual performance metrics throughout the tournament. Below EDG ZmjjKK, DRX BuZz, and SEN zekken display outstanding First Kills per Round (>= 0.2). FNC Derke and LEV aspas trails behind however they both dies first significantly less than the former, which may indiciate that both are taking either more efficient duels or are not throwing their life on the line to take space for their teams.
 
 ![alt text](https://github.com/shawnduong18/Player-Performance-Analysis/blob/main/Visuals/First%20Kills%20Per%20Round%20vs%20First%20Deaths%20Per%20Round.png)

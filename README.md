@@ -2,12 +2,13 @@
 
 ## **Table of Contents**
 1. [Project Overview]
-2. [Data Source]
-3. [Questions]
-4. [Approach]
-5. [Tools & Technologies]
-6. [Results]
-7. [Conclusion]
+2. [Preface]
+3. [Data Source]
+4. [Questions]
+5. [Approach]
+6. [Tools & Technologies]
+7. [Results]
+8. [Conclusion]
 
 ---
 
@@ -16,11 +17,18 @@ _This analysis aims to examine player trends and team tendencies during Valorant
 
 ---
 
+### **Preface**
+_Valorant is a 5v5 character-based tactical FPS developed by Riot Games. Riot manages their own scene where organizations sign players to compete in their franchise Teams play in the Valorant Champions Tour (VCT) attempting to qualify for international events against other franchise teams from other regions. This Player Performance Analysis examines data from Valorant Champions Seoul 2024, which is the final international tournament of the year._
+
+---
+
 ### **Data Source**
 - **Source of data:** [vlr.gg](https://www.vlr.gg/stats/?event_group_id=all&event_id=2097&series_id=all&region=all&min_rounds=50&min_rating=1550&agent=all&map_id=all&timespan=all)
 - **Scope of data:** Covers 34 matches, 80 players and ~2,300 data points.
 - **Dataset:** This dataset was created by me and can be found [here](https://docs.google.com/spreadsheets/d/1yH3ZFo-Tlz2oqdMXROr_Z5Ip1KLwdGebf77dtt9TGak/edit?usp=sharing).
 ---
+
+
 
 ### **Questions**
 _This project explores several key questions, including:_
@@ -50,6 +58,7 @@ ___
 - To calculate "Average Round Differential per game", we subtract the average rounds earned from underperformances from the average rounds earned from overperforming.
 - E.G. DRX BuZz: 12.5 - 9.3 = 3.2 -> "DRX wins an average of an additional 3.2 rounds per game when BuZz performs well compared to when he performs poorly."
 - Lastly, this graph displays only players from the top 6 placing teams, I have excluded 2 players: FNC Boaster and EDG S1Mon for having a less than 0.0 Average Round Differential per game.
+- 
 
 ![alt text](https://github.com/shawnduong18/Player-Performance-Analysis/blob/main/Visuals/Round%20Diff.png)
 

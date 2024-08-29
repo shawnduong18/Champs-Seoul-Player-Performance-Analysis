@@ -18,7 +18,7 @@ _This analysis aims to examine player trends and team tendencies during Valorant
 ---
 
 ### **Preface**
-_Valorant is a 5v5 character-based tactical FPS developed by Riot Games. Riot manages their own scene where organizations sign players to compete in their franchise. Teams play in the Valorant Champions Tour (VCT) attempting to qualify for international events against other franchise teams from other regions. This Player Performance Analysis examines data from Valorant Champions Seoul 2024, which is the final international tournament of the year._
+_Valorant is a 5v5 character-based tactical FPS developed by Riot Games. Riot manages their own scene where organizations sign players to compete in their franchise. Teams play in the Valorant Champions Tour (VCT) attempting to qualify for international events against other franchise teams from other regions. This Player Performance Analysis examines data from Valorant Champions Seoul 2024, which is the final international tournament of the year. EDward Gaming came out as the victors this tournament._
 
 ---
 
@@ -34,9 +34,7 @@ _Valorant is a 5v5 character-based tactical FPS developed by Riot Games. Riot ma
 _This project explores several key questions, including:_
 - 1. How valuable is a player to their team? 
 - 2. Who are the top performers of this tournament?
-- 3. Is Neon actually meta defining?
-- 4. How does map pick influence a team's performance
-- 5. Why were EDG so formidable?
+- 3. Why were EDG so formidable?
 ---
 
 ### **Approach**

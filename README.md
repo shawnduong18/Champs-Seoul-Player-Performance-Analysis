@@ -67,7 +67,7 @@ ___
 
 - Q2.1 To be considered as a top performer quantitatively, players must showcase impressive numbers in individual performance metrics throughout the tournament. Below EDG ZmjjKK, DRX BuZz, and SEN zekken display outstanding First Kills per Round (>= 0.2). FNC Derke and LEV aspastrails behind however they both dies first significantly less than the former, which may indiciate that both are taking either more efficient duels or are not throwing their life on the line to take space for their teams.
 
-![alt text](https://github.com/shawnduong18/Player-Performance-Analysis/blob/main/Visuals/FKPR%20vs%20FDPR.png)
+![alt text](https://github.com/shawnduong18/Player-Performance-Analysis/blob/main/Visuals/First%20Kills%20Per%20Round%20vs%20First%20Deaths%20Per%20Round.png)
 
 - Q2.2 Another important statistic to recognize is clutch impact. Running clutch win percentage against Average Round Differential per game builds a picture of how impactful a player's clutches has been for their tournament run. The 3 players that standout the most is TE Biank (35%), DRX BeYn (28%), and TH ReiNs (22%). Their clutches have won a significant portion of rounds that enable their team to close out matches. It seems that the more well rounded a team is, the less dependent on clutches they are. Between these three players there is an inverse relationship between final placement in a tournament against both clutch win percentage and Average Round Differential per game.
 

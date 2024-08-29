@@ -73,4 +73,4 @@ ___
 
 - Q2.3 Lastly we will touch on peak performances of select players throughout Champions Seoul. Average Combat Score is a measures overall performance through kills, headshot percentage, and economy. This not only allows us to identify which players are performing at a high level consistently, but also uncovers which players brought out their absolute best in a map. FNC Derke (257.4 ACS | 30 Kills), EDG Zmjjkk (250.8 ACS | 28 Kills), DRZ BuZz (241.3 ACS | 24 Kills), TH ReiNs (214.2 ACS | 28 Kills), and SEN zekken (252.2 ACS | 27 Kills) show up once again as top performers. 
 
-![alt text](https://github.com/shawnduong18/Player-Performance-Analysis/blob/main/Visuals/Maximum%20Kills%20vs%20Average%20Combat%20Score.png)
+![alt text](https://github.com/shawnduong18/Player-Performance-Analysis/blob/main/Visuals/acs%20vs%20kills%20max.png)

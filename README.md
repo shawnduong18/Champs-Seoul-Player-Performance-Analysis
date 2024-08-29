@@ -53,7 +53,7 @@ ___
 
 ![alt text](https://github.com/shawnduong18/Player-Performance-Analysis/blob/82c88c2d8de1a79c8b9e7b7c327364be36ca48fc/Visuals/Round%20Differential.png)
 
-- Q1.2 To determine how involved a player is with their team's success, we use a metric called KAST % (Kill, Assist, Survive, Trade Percentage). This is calculated by the number of rounds a player fulfil's one of these actions divided by the total rounds they play. KAST is binary in which the player either had impact or had zero impact in a given round. The graph below displays the KAST % of every player that qualified for playoffs. 
+- Q1.2 To determine how involved a player is with their team's success, we use a metric called KAST % (Kill, Assist, Survive, Trade Percentage). This is calculated by the number of rounds a player fulfil's one of these actions divided by the total rounds they play. KAST is binary in which the player either had impact or had zero impact. The graph below displays the KAST % of every player that qualified for playoffs. 
 
 ![alt text](https://github.com/shawnduong18/Player-Performance-Analysis/blob/main/Visuals/KAST.png)
 
@@ -64,3 +64,7 @@ ___
 - Q2.2 Another important statistic to recognize is clutch impact. Running clutch win percentage against Average Round Differential per game builds a picture of how impactful a player's clutches has been for their tournament run. The 3 players that standout the most is TE Biank (35%), DRX BeYn (28%), and TH ReiNs (22%). Their clutches have won a significant portion of rounds that enable their team to close out matches. It seems that the more well rounded a team is, the less dependent on clutches they are. Between these three players there is an inverse relationship between final placement in a tournament against both clutch win percentage and Average Round Differential per game.
 
 ![alt text](https://github.com/shawnduong18/Player-Performance-Analysis/blob/main/Visuals/Clutch%20Percentage%20vs%20Round%20Differential.png)
+
+- Q2.3 Lastly we will touch on peak performances of select players throughout Champions Seoul. Average Combat Score is a measures overall performance through kills, headshot percentage, and economy. This not only allows us to identify which players are performing at a high level consistently, but also uncovers which players brought out their absolute best in a map. FNC Derke (257.4 ACS | 30 Kills), EDG Zmjjkk (250.8 ACS | 28 Kills), DRZ BuZz (241.3 ACS | 24 Kills), TH ReiNs (214.2 ACS | 28 Kills), and SEN zekken (252.2 ACS | 27 Kills) show up once again as top performers. 
+
+![alt text](https://github.com/shawnduong18/Player-Performance-Analysis/blob/main/Visuals/Maximum%20Kills%20vs%20Average%20Combat%20Score.png)

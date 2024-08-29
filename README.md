@@ -53,7 +53,7 @@ ___
 
 ![alt text](https://github.com/shawnduong18/Player-Performance-Analysis/blob/82c88c2d8de1a79c8b9e7b7c327364be36ca48fc/Visuals/Round%20Differential.png)
 
-- Q1.2 To determine how involved a player is with their team's success, we use a metric called KAST % (Kill, Assist, Survive, Trade Percentage). This is calculated by the number of rounds a player fulfil's one of these actions by the total rounds they play. KAST is binary in which the player either had impact or had zero impact. The graph below displays the KAST % of every player that qualified for playoffs. 
+- Q1.2 To determine how involved a player is with their team's success, we use a metric called KAST % (Kill, Assist, Survive, Trade Percentage). This is calculated by the number of rounds a player fulfil's one of these actions divided by the total rounds they play. KAST is binary in which the player either had impact or had zero impact. The graph below displays the KAST % of every player that qualified for playoffs. 
 
 ![alt text](https://github.com/shawnduong18/Player-Performance-Analysis/blob/main/Visuals/KAST.png)
 

@@ -57,6 +57,6 @@ ___
 
 ![alt text](https://github.com/shawnduong18/Player-Performance-Analysis/blob/main/Visuals/KAST.png)
 
-- Q2
+- Q2 To be considered as top performer quantitatively, players must showcase impressive numbers in relevant performance metrics throughout the tournament. Below EDG ZmjjKK, DRX BuZz, and SEN zekken display outstanding First Kills per Round (>= 0.2). FNC Derke trails behind however he dies first significantly less than the former, which may indiciate that he is taking first duels more efficiently.
 
-
+![alt text](https://github.com/shawnduong18/Player-Performance-Analysis/blob/main/Visuals/FKPR%20VS%20FDPR.png)

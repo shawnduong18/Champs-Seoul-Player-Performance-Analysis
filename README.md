@@ -32,7 +32,7 @@ _Valorant is a 5v5 character-based tactical FPS developed by Riot Games. Riot ma
 
 ### **Questions**
 _This project explores several key questions, including:_
-- 1. How valuable is a player to their team?
+- 1. How valuable is a player to their team? 
 - 2. Who are the top performers of this tournament?
 - 3. Is Neon actually meta defining?
 - 4. How does map pick influence a team's performance
@@ -58,7 +58,6 @@ ___
 - To calculate "Average Round Differential per game", we subtract the average rounds earned from underperformances from the average rounds earned from overperforming.
 - E.G. DRX BuZz: 12.5 - 9.3 = 3.2 -> "DRX wins an average of an additional 3.2 rounds per game when BuZz performs well compared to when he performs poorly."
 - Lastly, this graph displays only players from the top 6 placing teams, I have excluded 2 players: FNC Boaster and EDG S1Mon for having a less than 0.0 Average Round Differential per game.
-- 
 
 ![alt text](https://github.com/shawnduong18/Player-Performance-Analysis/blob/main/Visuals/Round%20Diff.png)
 

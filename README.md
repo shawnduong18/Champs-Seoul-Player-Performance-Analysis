@@ -76,7 +76,7 @@ ___
 ![alt text](https://github.com/shawnduong18/Player-Performance-Analysis/blob/main/Visuals/acs%20vs%20kills%20max.png)
 ___
 - Q3.1 EDG winning Valorant Champions Seoul 2024 was unexpected due to the perception of China being a weaker region, so now we'll be examining metrics that enabled EDG to find success.
-- S1Mon is EDG's rookie who after 2 months of joining has won the biggest Valorant tournament of the year. As established before Initators like Mazino, c0m, and ReiNs are responsible for providing support to their teammates through utility usage. S1Mon has shown monsterous stats representing his ability to assist his teammmates. The graphic below shows that he is far and away the best performing initator at this tournament with the highest total asists and assists per round. 
+- S1Mon is EDG's rookie who after 2 months of joining has won the biggest Valorant tournament of the year. As established before Initators like Mazino, c0m, and ReiNs are responsible for providing support to their teammates through utility usage. S1Mon has shown monsterous stats representing his ability to assist his teammmates. The graphic below shows that he is far and away the best performing initator at this tournament with the highest total assists and assists per round. 
 
   ![alt text](https://github.com/shawnduong18/Player-Performance-Analysis/blob/main/Visuals/Assists.png)
 

@@ -117,6 +117,6 @@ ___
 
      
 - 3.  Why were EDG so formidable?'
-
+- For a team to win Champions, everything has to go correctly which includes players catching fire at just the right time and making appropiate preperations for opposing teams and meta change. ZmjjKK, S1Mon, and CHICHOO have displayed exceptional impact (High Kills, High Assists, High First Duel Success Rate) throughout the tournament which contributed to EDward Gaming's championship. EDG's victory was not only off the back of individual heroics, it also stems from the team's understanding of the metagame, having a diverse playbook, and maximizing players impact.   
       
 ---

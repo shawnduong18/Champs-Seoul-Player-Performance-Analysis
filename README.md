@@ -50,7 +50,10 @@ _This project was conducted using the following tools:_
 - **Visualization Tools:** Tableau
 ___
 
-- ### **Results**
+### **Results**
+
+### **Average Round Differential**
+
 - Q1.1 To quantify how valuable a player is to their team, I focused on two metrics: How critical their performance is to their team's success and how involved they are with their team's success. Seen below is a graph containing game-to-game impact: "Average Round Differential per game" is defined as the amount of additional rounds a team wins when a player is performing above average compared to when they're performing poorly. To quantify this we performed the following calculations:
 - An "average performance" is quantifed as 14.2 kills, rounded up to 15 kills per map. This is derived from the average kills per map across all competitors in Champions Seoul. Any map a player has above 15 kills is considered above average, while any map a player has below 15 kills is considered below average.
 - To calculate "Average Round Differential per game", we subtract the average rounds earned from underperformances from the average rounds earned from overperforming.
@@ -59,30 +62,45 @@ ___
 
 ![alt text](https://github.com/shawnduong18/Player-Performance-Analysis/blob/main/Visuals/Round%20Diff.png)
 
+### **Kills, Assists, Traded, Survived**
+
 - Q1.2 To determine how involved a player is with their team's success, we use a metric called KAST % (Kill, Assist, Survive, Trade Percentage). This is calculated by the number of rounds a player fulfil's one of these actions divided by the total rounds they play. KAST is binary in which the player either had impact or had zero impact in a given round. The graph below displays the KAST % of every player that qualified for playoffs. 
 
 ![alt text](https://github.com/shawnduong18/Player-Performance-Analysis/blob/main/Visuals/KAST%25.png)
 ___
+
+### **First Bloods**
 - Q2.1 To be considered as a top performer quantitatively, players must showcase impressive numbers in individual performance metrics throughout the tournament. Below EDG ZmjjKK, DRX BuZz, and SEN zekken display outstanding First Kills per Round (>= 0.2). FNC Derke and LEV aspas trails behind however they both dies first significantly less than the former, which may indiciate that both are taking either more efficient duels or are not throwing their life on the line to take space for their teams.
 
 ![alt text](https://github.com/shawnduong18/Player-Performance-Analysis/blob/main/Visuals/First%20Kills%20Per%20Round%20vs%20First%20Deaths%20Per%20Round.png)
+
+### **Impact of Clutches**
 
 - Q2.2 Another important statistic to recognize is clutch impact. Running clutch win percentage against Average Round Differential per game builds a picture of how impactful a player's clutches has been for their tournament run. The 3 players that standout the most is TE Biank (35%), DRX BeYn (28%), and TH ReiNs (22%). Their clutches have won a significant portion of rounds that enable their team to close out matches. It seems that the more well rounded a team is, the less dependent on clutches they are. Between these three players there is an inverse relationship between final placement in a tournament against both clutch win percentage and Average Round Differential per game.
 
 ![alt text](https://github.com/shawnduong18/Player-Performance-Analysis/blob/main/Visuals/Clutch%25%20vs%20Round%20Differential.png)
 
+### **Peak Performance**
+
 - Q2.3 Lastly we will touch on peak performances of select players throughout Champions Seoul. Average Combat Score is a measures overall performance through kills, headshot percentage, and economy. This not only allows us to identify which players are performing at a high level consistently, but also uncovers which players brought out their absolute best in a map. FNC Derke (257.4 ACS | 30 Kills), EDG ZmjjKK (250.8 ACS | 28 Kills), SEN TenZ (213.4 ACS | 29 Kills), TH ReiNs (214.2 ACS | 28 Kills), and LEV aspas (220.5 ACS | 29 Kills) show up as players with the highest individual peaks within a map.
 
 ![alt text](https://github.com/shawnduong18/Player-Performance-Analysis/blob/main/Visuals/acs%20vs%20kills%20max.png)
 ___
+
+### **S1Mon.**
+
 - Q3.1 EDG winning Valorant Champions Seoul 2024 was unexpected due to the perception of China being a weaker region, so now we'll be examining metrics that enabled EDG to find success.
 - S1Mon is EDG's rookie who after 2 months of joining has won the biggest Valorant tournament of the year. As established before Initators like Mazino, c0m, and ReiNs are responsible for providing support to their teammates through utility usage. S1Mon has shown monsterous stats representing his ability to assist his teammmates. The graphic below shows that he is far and away the best performing initator at this tournament with the highest total assists and assists per round. S1mon is also in the top 5 players for KAST % at 76%, meaning he is high impact in many of EDG's rounds. Lastly S1Mon is the only player in this tournament to have a negative Average Round Differential, recall that this number only considers kills as its parameter. This means that S1Mon's ability to help his team win games is almost independent with how well he can shoot enemies. Although getting a high amount of kills is great, him scoring a high amount of kills may mean that he wasn't able to support his teammates properly or that he was the only player that can find any kills that map. Players can have off days and inconsistencies in their gunplay, however S1Mon can maximize his contributions to EDG's matches without ever feeling the need to frag out. He truly embodies what it means to be an initiator. 
 
   ![alt text](https://github.com/shawnduong18/Player-Performance-Analysis/blob/main/Visuals/Assists.png)
 
+### **CHICHOO.**
+
 - 3.2 ZmjjKK has cemented himself as one of the best entry players this tournament with the highest First Kills Per Round and highest First Kills Total, however ZmjjKK is not the only player capable of entrying. CHICHOO is also excellent at finding first bloods, but what makes his case different from ZmjjKK is that he dies a lot less than his teammate. In fact CHICHOO dies a lot less than any other player attempting to draw first blood, he holds the best First Kill Success Percentage (65.8%) for players with over 25 first kills which is over 10% the average First Kill Success Percentage. Why this is important to EDG's success is it allows EDG to use him in three different ways. Firstly, CHICHOO can adopt the traditional lurking style and find first bloods by taking control of the map, second EDG could attack on two fronts by having CHICHOO entry the bombsite while ZmjjKK causes chaos on the other side of the map. Lastly if EDG want to immediately hit a bombsite CHICHOO can join his four teammates in a push and draw first blood. S1Mon also has almost an identical First Blood Success Percentage (64.4%), but has almost 20 less attempts than CHICHOO. CHICHOO's consistency is signficant since it adds depth to EDG's playbook that not many other teams can replicate easily. A good example of a team that cannot accomplish this is LEVIATÁN as every player that other than aspas has a below average first blood rate., which makes them seem one-dimensional tactically. 
 
   ![alt text](https://github.com/shawnduong18/Player-Performance-Analysis/blob/main/Visuals/FK%20Success.png)
+
+  ### **ZmjjKK's Evolution.**
 ___
 
 ### **Conclusion**

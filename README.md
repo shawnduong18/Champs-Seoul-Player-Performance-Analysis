@@ -74,8 +74,11 @@ ___
 - Q2.3 Lastly we will touch on peak performances of select players throughout Champions Seoul. Average Combat Score is a measures overall performance through kills, headshot percentage, and economy. This not only allows us to identify which players are performing at a high level consistently, but also uncovers which players brought out their absolute best in a map. FNC Derke (257.4 ACS | 30 Kills), EDG ZmjjKK (250.8 ACS | 28 Kills), SEN TenZ (213.4 ACS | 29 Kills), TH ReiNs (214.2 ACS | 28 Kills), and LEV aspas (220.5 ACS | 29 Kills) show up as players with the highest individual peaks within a map.
 
 ![alt text](https://github.com/shawnduong18/Player-Performance-Analysis/blob/main/Visuals/acs%20vs%20kills%20max.png)
+___
+- Q3.1 EDG winning Valorant Champions Seoul 2024 was unexpected due to the perception of China being a weaker region, so now we'll be examining metrics that enabled EDG to find success.
+- S1Mon is EDG's rookie who after 2 months of joining has won the biggest Valorant tournament of the year. As established before Initators like Mazino, c0m, and ReiNs are responsible for providing support to their teammates through utility usage. S1Mon has shown monsterous stats representing his ability to assist his teammmates. The graphic below shows that he is far and away the best performing initator at this tournament with the highest total asists and assists per round. 
 
-- Q3
+  ![alt text](https://github.com/shawnduong18/Player-Performance-Analysis/blob/main/Visuals/Assists.png)
 
   
 ___

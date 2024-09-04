@@ -51,6 +51,7 @@ _This project was conducted using the following tools:_
 ___
 
 ### **Results**
+_My tableau dashboard can be found here:_ https://public.tableau.com/views/ValorantChampionsSeoulPlayerAnalysis/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ### **Average Round Differential**
 
